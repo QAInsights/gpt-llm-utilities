@@ -7,3 +7,4 @@
 - [Cursor](https://www.cursor.com/)
 - [Tabby](https://github.com/TabbyML/tabby)
 - [Ollama](https://ollama.com/)
+- [PearAI](https://trypear.ai/)
