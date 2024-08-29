@@ -9,3 +9,5 @@
 - [Ollama](https://ollama.com/)
 - [PearAI](https://trypear.ai/)
 - [ZedAI](https://zed.dev/ai)
+- [Continue](https://www.continue.dev/)
+- [Blackbox](https://www.blackbox.ai/)
